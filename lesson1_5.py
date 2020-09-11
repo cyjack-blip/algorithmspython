@@ -3,6 +3,7 @@
 Пользователь вводит номер буквы в алфавите. Определить, какая это буква.
 Алгоритм:
 https://app.diagrams.net/?page-id=cKQf3hZWiOmXTb9jmviH&hide-pages=1#G1jy0w4PLkIXAzwbz76qYBSP8tKp96cshS
+https://drive.google.com/file/d/1jy0w4PLkIXAzwbz76qYBSP8tKp96cshS/view?usp=sharing
 """
 
 a = int(input("Введите позицию буквы: "))
