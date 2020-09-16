@@ -5,6 +5,7 @@
 https://app.diagrams.net/?page-id=hgxazAHc-ibabDy5Ekb4&hide-pages=1#G1jy0w4PLkIXAzwbz76qYBSP8tKp96cshS
 https://drive.google.com/file/d/1jy0w4PLkIXAzwbz76qYBSP8tKp96cshS/view?usp=sharing
 """
+
 a1 = input("Введите первую букву: ")
 a2 = input("Введите вторую букву: ")
 
